@@ -1,7 +1,7 @@
 # 📚 Library System
 
 ## Overview  
-This is a **Spring Boot-based Library System API** developed for **learning purposes**. The application allows users to **retrieve books** from the library, while **authorized users (Admins)** can **add and delete books**.  
+This is a **Spring Boot-based Library System API**. The application allows users to **retrieve books** from the library, while **authorized users (Admins)** can **add and delete books**.  
 
 The project implements **JWT authentication**, ensuring secure access where users authenticate once and use their access token for subsequent requests.
 
